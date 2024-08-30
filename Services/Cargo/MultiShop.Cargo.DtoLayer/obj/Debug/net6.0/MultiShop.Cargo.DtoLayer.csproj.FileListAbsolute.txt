@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.deps.json
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.dll
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.pdb
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.AssemblyInfo.cs
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.dll
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\refint\MultiShop.Cargo.DtoLayer.dll
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.pdb
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\ref\MultiShop.Cargo.DtoLayer.dll
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.DtoLayer.runtimeconfig.json
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.EntityLayer.dll
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\bin\Debug\net6.0\MultiShop.Cargo.EntityLayer.pdb
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.csproj.CopyComplete
+C:\Users\ACER\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.DtoLayer\obj\Debug\net6.0\MultiShop.Cargo.DtoLayer.genruntimeconfig.cache

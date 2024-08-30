@@ -1,0 +1,11 @@
+﻿namespace MultiShop.Cargo.DtoLayer.Dtos.CargoDetailDto
+{
+    public class UpdateCargoDetailDto
+    {
+        public int CargoDetailID { get; set; }
+        public string SenderCustomer { get; set; }
+        public string ReceiverCustomer { get; set; }
+        public int Barcode { get; set; }
+        public int CargoCompanyId { get; set; }
+    }
+}
